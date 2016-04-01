@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>simicart_webhook</name>
+	<displayName><![CDATA[Simicart Webhook]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[This is Simicart Webhook, it help u sync data bettwen simicart and prestashop.]]></description>
+	<author><![CDATA[Simicart]]></author>
+	<tab><![CDATA[others]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
